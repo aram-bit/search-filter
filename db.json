@@ -1,0 +1,111 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "accessory product",
+      "category": "accessory",
+      "price": 10.99,
+      "image": "/images/img (1).jpg"
+    },
+    {
+        "id": "2",
+        "title": "shirt product",
+        "category": "shirt",
+        "price": 22.99,
+        "image": "/images/img (1).webp"
+      },
+      {
+        "id": "3",
+        "title": "jeans product",
+        "category": "jeans",
+        "price": 100.99,
+        "image": "/images/img (3).webp"
+      },
+      {
+        "id": "4",
+        "title": "watch product",
+        "category": "watch",
+        "price": 19.99,
+        "image": "/images/img (2).jpg"
+      },
+      {
+        "id": "5",
+        "title": "watch product",
+        "category": "watch",
+        "price": 20.99,
+        "image": "/images/img (2).webp"
+      },
+      {
+        "id": "6",
+        "title": "watch product",
+        "category": "watch",
+        "price": 15.99,
+        "image": "/images/img (3).jpg"
+      },
+      {
+        "id": "7",
+        "title": "watch product",
+        "category": "watch",
+        "price": 18.99,
+        "image": "/images/img (4).jpg"
+    
+      },
+      {
+        "id": "8",
+        "title": "jeans product",
+        "category": "jeans",
+        "price": 102.99,
+        "image": "/images/img (5).jpg"
+      },
+      {
+        "id": "9",
+        "title": "shirt product",
+        "category": "shirt",
+        "price": 50.99,
+        "image": "/images/img (6).jpg"
+      },
+      {
+        "id": "10",
+        "title": "shirt product",
+        "category": "shirt",
+        "price": 70.99,
+        "image": "/images/img (7).jpg"
+      },
+      {
+        "id": "11",
+        "title": "accessory product",
+        "category": "accessory",
+        "price": 19.99,
+        "image": "/images/img (8).jpg"
+      },
+      {
+        "id": "12",
+        "title": "shirt product",
+        "category": "shirt",
+        "price": 105.99,
+        "image": "/images/img (9).jpg"
+      },
+      {
+        "id": "13",
+        "title": "watch product",
+        "category": "watch",
+        "price": 109.99,
+        "image": "/images/img (10).jpg"
+      },
+      {
+        "id": "14",
+        "title": "jeans product",
+        "category": "jeans",
+        "price": 107.99,
+        "image": "/images/img (11).jpg"
+      },
+      {
+        "id": "15",
+        "title": "jeans product",
+        "category": "jeans",
+        "price": 200.99,
+        "image": "/images/img (12).jpg"
+      }
+
+  ]
+}
