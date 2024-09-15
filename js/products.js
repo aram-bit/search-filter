@@ -1,5 +1,6 @@
 const searchInput = document.querySelector(".search-input");
 const productsDom = document.querySelector(".products");
+const btns=document.querySelectorAll(".btn");
 import { allProductsData } from "./app.js";
 class Products {
   constructor() {
@@ -10,6 +11,14 @@ class Products {
     this.filters = {
       searchItems: "",
     };
+    btns.forEach(btn=>{
+        btn.addEventListener("click",(e)=>this.getBtns(e));
+    })
+  }
+  getBtns(e){
+    const filter=e.target.dataset.filter;
+    this.filters.searchItems=filter;
+    this.renderProducts(allProductsData,this.filters)    
   }
   renderProducts(products, filters) {
     const filteredProducts = products.filter((p) => {
